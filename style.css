@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #e9ecef;
+}
+
+#navbar-bg {
+    background-color: #d0f4de;
+}
+
+.btn-order{
+    background-color: aquamarine !important;
+}
+
+.btn-order:hover{
+    color: brown  !important;
+}
+
+.submitBtn{
+    color: white !important;
+    background-color: blue !important;
+}
